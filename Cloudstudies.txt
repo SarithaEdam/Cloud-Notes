@@ -1,1 +1,3 @@
 Virtual Machine: It is a digital version of physical computer that can be run in cloud.
+OR
+It is a software-based version of a physical computer.
