@@ -1,3 +1,9 @@
-Virtual Machine: It is a digital version of physical computer that can be run in cloud.
+Virtual Machine: It is a digital version of a physical computer that can be run in the cloud.
 OR
 It is a software-based version of a physical computer.
+
+VM can run an operating system, store the data, deploy apps, connect to networks
+VM can used for testing, and backing up the data.
+VM advantages are--
+
+It allows multiple cloud environments to run on the same physical machine without interacting with each other.
